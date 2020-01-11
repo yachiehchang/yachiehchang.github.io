@@ -1,0 +1,129 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yachiehchangWorks.com" resolutions="1x" timestamp="1578775763206">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="animation.css" crc="4110037171" ref="animation"/>
+    <file name="works.css" crc="358208894" ref="works"/>
+    <file name="index.css" crc="28335899" ref="index"/>
+    <file name="paint.css" crc="4285775971" ref="paint"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:works:animation:paint"/>
+    <file name="museutils.js" crc="4216313831" ref="index:works:animation:paint"/>
+    <file name="whatinput.js" crc="86476730" ref="index:works:animation:paint"/>
+    <file name="museconfig.js" crc="474374037" ref="index:works:animation:paint"/>
+    <file name="webpro.js" crc="4143865194" ref="index:works:animation:paint"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index:works:animation:paint"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index:works:animation:paint"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index:works:animation:paint"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:works:animation:paint"/>
+    <file name="require.js" crc="3951022091" ref="index:works:animation:paint"/>
+  </folder>
+  <folder name="images">
+    <file name="u661-4.png" crc="473630664" ref="index"/>
+    <file name="u675-4.png" crc="4216408899" ref="index"/>
+    <file name="home.jpg" crc="153916564" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:works:animation:paint"/>
+    <file name="loading.gif" crc="3815509949" ref="index:works:animation:paint"/>
+    <file name="u681-4.png" crc="323811122" ref="index"/>
+    <file name="u1877-4.png" crc="3829776372" ref="works"/>
+    <file name="works_01.png" crc="3822777858" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="u2322-4.png" crc="3771913114" ref="works"/>
+    <file name="works_03.png" crc="458577085" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="u2346-4.png" crc="103437224" ref="works"/>
+    <file name="works_04.png" crc="327339198" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="u2358-4.png" crc="4227185683" ref="works"/>
+    <file name="works_02.png" crc="4028654668" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="u1574-4.png" crc="3952791528" ref="animation"/>
+    <file name="u1585-4.png" crc="204366699" ref="animation"/>
+    <file name="poster-crop-u1025.jpg" crc="4002607577" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="u1604-4.png" crc="118699345" ref="animation"/>
+    <file name="character_01.png" crc="244078773" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="character_02.png" crc="81882274" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="character_03.png" crc="132931955" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="u1610-4.png" crc="334534394" ref="animation"/>
+    <file name="room_set010300.jpg" crc="309483849" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="room_set020245.jpg" crc="237144919" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="room_set030001.jpg" crc="454740533" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="room_set040300.jpg" crc="95134075" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="room_set050150.jpg" crc="491551629" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="room_set070200.jpg" crc="4001584825" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="room_set090300.jpg" crc="4026391460" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="room_set11_10000.jpg" crc="3762872667" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="street_set011030.jpg" crc="3932247593" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="street_set020165.jpg" crc="302617057" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="u2371-4.png" crc="4075881678" ref="paint"/>
+    <file name="fatman_01.jpg" crc="216133823" seo="true" ref="paint">
+      <caption webpage="paint" alt=""/>
+    </file>
+    <file name="fatman_02.jpg" crc="52513083" seo="true" ref="paint">
+      <caption webpage="paint" alt=""/>
+    </file>
+    <file name="main visual.jpg" crc="73146227" seo="true" ref="paint">
+      <caption webpage="paint" alt=""/>
+    </file>
+    <file name="pimple_06.jpg" crc="3894974061" seo="true" ref="paint">
+      <caption webpage="paint" alt=""/>
+    </file>
+    <file name="u2476-4.png" crc="363574832" ref="paint"/>
+    <file name="04-crop-u2487.jpg" crc="4195802327" seo="true" ref="paint">
+      <caption webpage="paint" alt=""/>
+    </file>
+    <file name="05-crop-u2618.jpg" crc="532516435" seo="true" ref="paint">
+      <caption webpage="paint" alt=""/>
+    </file>
+    <file name="06-crop-u2644.jpg" crc="4202655602" seo="true" ref="paint">
+      <caption webpage="paint" alt=""/>
+    </file>
+    <file name="15.jpg" crc="3843431555" seo="true" ref="paint">
+      <caption webpage="paint" alt=""/>
+    </file>
+    <file name="17.jpg" crc="4094751254" seo="true" ref="paint">
+      <caption webpage="paint" alt=""/>
+    </file>
+    <file name="18.jpg" crc="4065644118" seo="true" ref="paint">
+      <caption webpage="paint" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4094505153" seo="true" mt="1578774699237" redirect="true"/>
+  <file name="works.html" crc="4129466719" seo="true" mt="1578774645080" redirect="true"/>
+  <file name="animation.html" crc="503368283" seo="true" mt="1578774679217" redirect="true"/>
+  <file name="paint.html" crc="4148245794" seo="true" mt="1578774805293" redirect="true"/>
+</manifest>
