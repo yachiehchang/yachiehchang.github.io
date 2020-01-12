@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yachiehchangWorks.com" resolutions="1x" timestamp="1578823816939">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yachiehchangWorks.com" resolutions="1x" timestamp="1578830746517">
   <folder name="assets">
     <file name="home.jpg" crc="153916564" seo="true" mt="1578823762000"/>
   </folder>
@@ -28,10 +28,10 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="animation.css" crc="169829097" ref="animation"/>
-    <file name="works.css" crc="3827558986" ref="works"/>
-    <file name="index.css" crc="194397911" ref="index"/>
-    <file name="paint.css" crc="442244307" ref="paint"/>
+    <file name="animation.css" crc="47171648" ref="animation"/>
+    <file name="works.css" crc="3821856257" ref="works"/>
+    <file name="index.css" crc="4143498224" ref="index"/>
+    <file name="paint.css" crc="4027716472" ref="paint"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:works:animation:paint:phone>index:phone>works:phone>animation:phone>paint:tablet>index:tablet>works:tablet>animation:tablet>paint"/>
@@ -150,8 +150,8 @@
       <caption webpage="animation" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="159434960" seo="true" mt="1578823798379" redirect="true"/>
-  <file name="works.html" crc="4144518661" seo="true" mt="1578821448191" redirect="true"/>
-  <file name="animation.html" crc="479775959" seo="true" mt="1578821443996" redirect="true"/>
-  <file name="paint.html" crc="3802573761" seo="true" mt="1578821434165" redirect="true"/>
+  <file name="index.html" crc="4272121746" seo="true" mt="1578830639234" redirect="true"/>
+  <file name="works.html" crc="3829772238" seo="true" mt="1578830639234" redirect="true"/>
+  <file name="animation.html" crc="138335404" seo="true" mt="1578830639234" redirect="true"/>
+  <file name="paint.html" crc="3805104987" seo="true" mt="1578830639234" redirect="true"/>
 </manifest>
