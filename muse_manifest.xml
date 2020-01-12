@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yachiehchangWorks.com" resolutions="1x" timestamp="1578791107299">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yachiehchangWorks.com" resolutions="1x" timestamp="1578791991318">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="animation.css" crc="52590161" ref="animation"/>
