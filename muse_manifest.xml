@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yachiehchangWorks.com" resolutions="1x" timestamp="1578793697012">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yachiehchangWorks.com" resolutions="1x" timestamp="1578818403656">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="animation.css" crc="434243715" ref="animation"/>
-    <file name="works.css" crc="3849235165" ref="works"/>
-    <file name="index.css" crc="525508973" ref="index"/>
-    <file name="paint.css" crc="472549073" ref="paint"/>
+    <file name="animation.css" crc="157505654" ref="animation"/>
+    <file name="works.css" crc="309098143" ref="works"/>
+    <file name="index.css" crc="4010693895" ref="index"/>
+    <file name="paint.css" crc="3884261714" ref="paint"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:works:animation:paint"/>
@@ -122,8 +122,8 @@
       <caption webpage="paint" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3859337291" seo="true" mt="1578793660588" redirect="true"/>
-  <file name="works.html" crc="4037222340" seo="true" mt="1578793592554" redirect="true"/>
-  <file name="animation.html" crc="428093139" seo="true" mt="1578793592554" redirect="true"/>
-  <file name="paint.html" crc="4243476866" seo="true" mt="1578793592554" redirect="true"/>
+  <file name="index.html" crc="253359956" seo="true" mt="1578818381522" redirect="true"/>
+  <file name="works.html" crc="228048477" seo="true" mt="1578818381522" redirect="true"/>
+  <file name="animation.html" crc="4287414882" seo="true" mt="1578818381522" redirect="true"/>
+  <file name="paint.html" crc="74749924" seo="true" mt="1578818381522" redirect="true"/>
 </manifest>
