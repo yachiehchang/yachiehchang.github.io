@@ -1,4 +1,7 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yachiehchangWorks.com" resolutions="1x" timestamp="1578822845887">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yachiehchangWorks.com" resolutions="1x" timestamp="1578823816939">
+  <folder name="assets">
+    <file name="home.jpg" crc="153916564" seo="true" mt="1578823762000"/>
+  </folder>
   <folder name="tablet">
     <folder name="css">
       <file name="works.css" crc="4217132306" ref="tablet>works"/>
@@ -27,7 +30,7 @@
     <file name="site_global.css" crc="443350757"/>
     <file name="animation.css" crc="169829097" ref="animation"/>
     <file name="works.css" crc="3827558986" ref="works"/>
-    <file name="index.css" crc="201956416" ref="index"/>
+    <file name="index.css" crc="194397911" ref="index"/>
     <file name="paint.css" crc="442244307" ref="paint"/>
   </folder>
   <folder name="scripts">
@@ -35,21 +38,22 @@
     <file name="museutils.js" crc="4216313831" ref="index:works:animation:paint:phone>index:phone>works:phone>animation:phone>paint:tablet>index:tablet>works:tablet>animation:tablet>paint"/>
     <file name="whatinput.js" crc="86476730" ref="index:works:animation:paint:phone>index:phone>works:phone>animation:phone>paint:tablet>index:tablet>works:tablet>animation:tablet>paint"/>
     <file name="museconfig.js" crc="474374037" ref="index:works:animation:paint:phone>index:phone>works:phone>animation:phone>paint:tablet>index:tablet>works:tablet>animation:tablet>paint"/>
-    <file name="webpro.js" crc="4143865194" ref="index:works:animation:paint"/>
-    <file name="musewpslideshow.js" crc="3781122836" ref="index:works:animation:paint"/>
-    <file name="jquery.museoverlay.js" crc="4030747646" ref="index:works:animation:paint"/>
-    <file name="touchswipe.js" crc="4200445185" ref="index:works:animation:paint"/>
+    <file name="webpro.js" crc="4143865194" ref="works:animation:paint"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="works:animation:paint"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="works:animation:paint"/>
+    <file name="touchswipe.js" crc="4200445185" ref="works:animation:paint"/>
     <file name="jquery.watch.js" crc="460461809" ref="index:works:animation:paint:phone>index:phone>works:phone>animation:phone>paint:tablet>index:tablet>works:tablet>animation:tablet>paint"/>
     <file name="require.js" crc="3951022091" ref="index:works:animation:paint:phone>index:phone>works:phone>animation:phone>paint:tablet>index:tablet>works:tablet>animation:tablet>paint"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
   </folder>
   <folder name="images">
     <file name="u661-4.png" crc="473630664" ref="index"/>
     <file name="u675-4.png" crc="4216408899" ref="index"/>
-    <file name="home.jpg" crc="153916564" seo="true" ref="index">
+    <file name="home.jpg" crc="153916564" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:works:animation:paint"/>
-    <file name="loading.gif" crc="3815509949" ref="index:works:animation:paint"/>
+    <file name="blank.gif" crc="4208392903" ref="works:animation:paint"/>
+    <file name="loading.gif" crc="3815509949" ref="works:animation:paint"/>
     <file name="u681-4.png" crc="323811122" ref="index"/>
     <file name="u1877-4.png" crc="3829776372" ref="works"/>
     <file name="works_01.png" crc="3822777858" seo="true" ref="works">
@@ -146,7 +150,7 @@
       <caption webpage="animation" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3976715321" seo="true" mt="1578822834964" redirect="true"/>
+  <file name="index.html" crc="159434960" seo="true" mt="1578823798379" redirect="true"/>
   <file name="works.html" crc="4144518661" seo="true" mt="1578821448191" redirect="true"/>
   <file name="animation.html" crc="479775959" seo="true" mt="1578821443996" redirect="true"/>
   <file name="paint.html" crc="3802573761" seo="true" mt="1578821434165" redirect="true"/>
