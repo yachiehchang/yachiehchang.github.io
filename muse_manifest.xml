@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yachiehchangWorks.com" resolutions="1x" timestamp="1578819550339">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yachiehchangWorks.com" resolutions="1x" timestamp="1578820226203">
   <folder name="tablet">
     <folder name="css">
       <file name="works.css" crc="4217132306" ref="tablet>works"/>
@@ -27,7 +27,7 @@
     <file name="site_global.css" crc="443350757"/>
     <file name="animation.css" crc="157505654" ref="animation"/>
     <file name="works.css" crc="309098143" ref="works"/>
-    <file name="index.css" crc="57515317" ref="index"/>
+    <file name="index.css" crc="4079793627" ref="index"/>
     <file name="paint.css" crc="3884261714" ref="paint"/>
   </folder>
   <folder name="scripts">
@@ -146,7 +146,7 @@
       <caption webpage="paint" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="394013390" seo="true" mt="1578819519011" redirect="true"/>
+  <file name="index.html" crc="523168202" seo="true" mt="1578820213974" redirect="true"/>
   <file name="works.html" crc="4248867336" seo="true" mt="1578819503815" redirect="true"/>
   <file name="animation.html" crc="495705725" seo="true" mt="1578819503861" redirect="true"/>
   <file name="paint.html" crc="4164859504" seo="true" mt="1578819503896" redirect="true"/>
