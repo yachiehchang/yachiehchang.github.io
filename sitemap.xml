@@ -33,9 +33,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://yachiehchangWorks.com/images/poster-crop-u1025.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://yachiehchangWorks.com/images/character_01.png</image:loc>
     </image:image>
     <image:image>
@@ -73,6 +70,9 @@
     </image:image>
     <image:image>
       <image:loc>http://yachiehchangWorks.com/images/street_set020165.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yachiehchangWorks.com/images/poster.jpg</image:loc>
     </image:image>
   </url>
   <url>
